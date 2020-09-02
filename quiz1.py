@@ -40,15 +40,17 @@ print("hello world");
 """**Question 4**: After you are done upto **Question 3**, copy your quiz from your local machine to Google Drive and put into **Data Science** folder (I assume you created this folder based on our discussions in the class). Now open the file using Google Colab. Write a python program below to print: "Welcome back from Google Colab!". Provide a link of Colab url below."""
 
 print("Welcome back from Google Colab!")
-
+https://drive.google.com/drive/folders/1abcOiIkUhY8LUB3ciuhSCWCkgPEfZrkW?q=owner:me%20(type:application/vnd.google.colaboratory%20||%20type:application/vnd.google.colab)
+     
 """**Question 5**: After you are done with **Question 4**, save a copy of this quiz in Github inside **Data 
 Science** folder which you had created based on our class discussion.
 """
 
-
+done
 
 """**Question 6**: Provide a GitHub url of this quiz in the following cell."""
 
+https://github.com/ehaynes705/Data-Science/blob/master/quiz1.py
 
 
 """**Quiestion 7**: Provide the same GitHub url on bridges."""
