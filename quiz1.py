@@ -26,12 +26,12 @@ In this quiz you will be tested for your understanding of software installations
 - Open the Quiz by using Jupyter notebook (Jupyter comes with anaconda installation). 
 - Complete the first cell of this notebook by writing your name.
 """
-print("Ethan Haynes");
+print("Ethan Haynes")
 
 
 """**Question 2**: Write a **Hello world** python program  below."""
 
-print("hello world");
+print("hello world")
 
 """**Question 3**: Create a python script file, called **my_first_file.py** using editor of spyder and write a python program to print: "Welcome to data science class!". Take a screenshot of the result from your program and insert the screenshot picture in the following cell. See [here](https://www.youtube.com/watch?v=Vw1EZh1My8s) for the guidelines of importing picture in notebook."""
 
